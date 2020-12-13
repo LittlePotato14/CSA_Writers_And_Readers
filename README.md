@@ -41,7 +41,7 @@
 
 ![alt-текст](https://github.com/LittlePotato14/CSA_Writers_And_Readers/blob/master/screens/reader2.png "reader2")
 
-# Выполнение задания
+## Выполнение задания
 Поток получает рандомную запись в базе данных на чтение.
 
 Если на данном участке не осталось потоков-читателей, то поток открывает доступ потокам-писателям к базе данных.
@@ -85,7 +85,7 @@
 ![alt-текст](https://github.com/LittlePotato14/CSA_Writers_And_Readers/blob/master/screens/main2.png "main2")
 
 # Тестирование программы
-# Программа приветствует пользователя
+## Программа приветствует пользователя
 
 ![alt-текст](https://github.com/LittlePotato14/CSA_Writers_And_Readers/blob/master/screens/hello.png "hello")
 
